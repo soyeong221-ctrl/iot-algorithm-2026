@@ -7,4 +7,5 @@
   <Project Path="app02/app02.vcxproj" Id="3cb5bac4-41ce-4526-b99b-10e42f74c98b" />
   <Project Path="app03/app03.vcxproj" Id="b7a4126e-34ef-4548-9a5e-ca4fe6839a11" />
   <Project Path="MOVIE/MOVIE.vcxproj" Id="30091965-8891-40fa-b464-17f67f0d6cec" />
+  <Project Path="코딩테스트/코딩테스트.vcxproj" Id="06a9d68b-4b3b-4e95-846b-6c3ffd41fd69" />
 </Solution>

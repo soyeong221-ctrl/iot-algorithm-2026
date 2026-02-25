@@ -9,4 +9,7 @@
   <Project Path="app04/app04.vcxproj" Id="7c6b3937-8de4-4f3a-9668-848623d123e8" />
   <Project Path="app05/app05.vcxproj" Id="17a32d85-d2f1-4092-84d8-1dd8c03ffb10" />
   <Project Path="app06/app06.vcxproj" Id="e43ed161-cc6c-4ca5-9cc8-1576a07679a3" />
+  <Project Path="코딩테스트2/코딩테스트2.vcxproj" Id="31ac2675-7580-4b2b-889b-bb7c9290a0c5" />
+  <Project Path="테스트3/테스트3.vcxproj" Id="b141671c-9f86-4f75-bb7f-a0c76a261832" />
+  <Project Path="테스트4/테스트4.vcxproj" Id="f8dc7075-be93-4d88-81a6-8aff47ba7086" />
 </Solution>
